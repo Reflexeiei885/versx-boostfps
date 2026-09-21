@@ -2,9 +2,9 @@ import { Buffer } from 'buffer';
 import { verifyKey } from 'discord-interactions';
 
 const KEYAUTH_URL = 'https://keyauth.win/api/1.3/';
-const KEYAUTH_PUBLIC_KEY = '5586b4bc69c7a4b487e4563a4cd96afd39140f919bd31cea7d1c6a1e8439422b';
+const KEYAUTH_PUBLIC_KEY = '4c857006c10dfff62ed08b37d2ddf177cbdc61021b9d9ed046af25b8bcbe2fae';
 const APP = {
-  name: process.env.KEYAUTH_NAME || 'DeltaVX',
+  name: process.env.KEYAUTH_NAME || 'boostfps-VesrX',
   ownerid: process.env.KEYAUTH_OWNERID || 'igr22xSE8H',
   version: process.env.KEYAUTH_VERSION || '1.0',
 };
